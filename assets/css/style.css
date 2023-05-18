@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffb727;
+  background: #olive;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -134,7 +134,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffb727;
+  color: #olive;
 }
 
 .navbar .dropdown ul {
@@ -173,7 +173,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ffb727;
+  color: #olive;
 }
 
 .navbar .dropdown:hover>ul {
@@ -269,7 +269,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ffb727;
+  color: #olive;
 }
 
 .navbar-mobile .getstarted,
