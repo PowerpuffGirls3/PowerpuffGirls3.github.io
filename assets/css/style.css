@@ -602,7 +602,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("https://i.pinimg.com/564x/93/97/08/939708e7cd6a8b26968fd36f48fc43a0--the-view-trekking.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
